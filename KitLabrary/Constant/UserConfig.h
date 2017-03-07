@@ -1,0 +1,49 @@
+//
+//  UserConfig.h
+//  Unity-iPhone
+//
+//  Created by Yioks-Mac on 16/8/9.
+//
+//
+
+#import <Foundation/Foundation.h>
+
+@interface UserConfig : NSObject
+
+//服务器地址
+UIKIT_EXTERN NSString *YIOKS_USER_DEFAULT_SERVER_HOME;
+
+//服务器图片
+UIKIT_EXTERN NSString *YIOKS_USER_DEFAULT_SERVER_IMAGE;
+
+//服务器名字
+UIKIT_EXTERN NSString *YIOKS_USER_DEFAULT_SERVER_NAME;
+
+//服务器
+UIKIT_EXTERN NSString *YIOKS_USER_DEFAULT_SERVER_KEY;
+
+//
+UIKIT_EXTERN NSString *YIOKS_USER_DEFAULT_SERVER_PHONE;
+
+//用户登录token
+UIKIT_EXTERN NSString *YIOKS_USER_TOKEN;
+
+//用户名字
+UIKIT_EXTERN NSString *YIOKS_USER_NAME;
+
+//
+UIKIT_EXTERN NSString *YIOKS_USER_HEAD;
+
+//用户等级
+UIKIT_EXTERN NSString *YIOKS_USER_LEVEL_NAME;
+
+//学校
+UIKIT_EXTERN NSString *YIOKS_USER_SCHOOL_NAME;
+
+//是否上传了设备信息
+UIKIT_EXTERN NSString *YIOKS_USER_IS_POST_DEVICEINFO;
+
+//是否有需要上传的崩溃日志
+UIKIT_EXTERN NSString *YIOKS_USER_IS_ERROR;
+
+@end
