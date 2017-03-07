@@ -452,6 +452,64 @@
 		3A20A02C1E6E3E3E004A2994 /* ZGFightUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A209F7C1E6E3E3D004A2994 /* ZGFightUtil.m */; };
 		3A20A02D1E6E3E3E004A2994 /* ZGXMLUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209F7D1E6E3E3D004A2994 /* ZGXMLUtil.h */; };
 		3A20A02E1E6E3E3E004A2994 /* ZGXMLUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A209F7E1E6E3E3D004A2994 /* ZGXMLUtil.m */; };
+		3A20A06D1E6E3F13004A2994 /* AppDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0301E6E3F13004A2994 /* AppDelegate.h */; };
+		3A20A06E1E6E3F13004A2994 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0311E6E3F13004A2994 /* AppDelegate.m */; };
+		3A20A06F1E6E3F13004A2994 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A0321E6E3F13004A2994 /* Assets.xcassets */; };
+		3A20A0701E6E3F13004A2994 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A0331E6E3F13004A2994 /* LaunchScreen.storyboard */; };
+		3A20A0711E6E3F13004A2994 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A0351E6E3F13004A2994 /* Main.storyboard */; };
+		3A20A0721E6E3F13004A2994 /* CollectionViewCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0371E6E3F13004A2994 /* CollectionViewCell.h */; };
+		3A20A0731E6E3F13004A2994 /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0381E6E3F13004A2994 /* CollectionViewCell.m */; };
+		3A20A0741E6E3F13004A2994 /* CollectionViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0391E6E3F13004A2994 /* CollectionViewController.h */; };
+		3A20A0751E6E3F13004A2994 /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A03A1E6E3F13004A2994 /* CollectionViewController.m */; };
+		3A20A0761E6E3F13004A2994 /* DetailViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A03B1E6E3F13004A2994 /* DetailViewController.h */; };
+		3A20A0771E6E3F13004A2994 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A03C1E6E3F13004A2994 /* DetailViewController.m */; };
+		3A20A0781E6E3F13004A2994 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A03D1E6E3F13004A2994 /* Info.plist */; };
+		3A20A0791E6E3F13004A2994 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A03E1E6E3F13004A2994 /* main.m */; };
+		3A20A07A1E6E3F13004A2994 /* PageTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A03F1E6E3F13004A2994 /* PageTransition.h */; };
+		3A20A07B1E6E3F13004A2994 /* PageTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0401E6E3F13004A2994 /* PageTransition.m */; };
+		3A20A07C1E6E3F13004A2994 /* PresentViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0411E6E3F13004A2994 /* PresentViewController.h */; };
+		3A20A07D1E6E3F13004A2994 /* PresentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0421E6E3F13004A2994 /* PresentViewController.m */; };
+		3A20A07E1E6E3F13004A2994 /* SecondViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0431E6E3F13004A2994 /* SecondViewController.h */; };
+		3A20A07F1E6E3F13004A2994 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0441E6E3F13004A2994 /* SecondViewController.m */; };
+		3A20A0801E6E3F13004A2994 /* TableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0451E6E3F13004A2994 /* TableViewController.h */; };
+		3A20A0811E6E3F13004A2994 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0461E6E3F13004A2994 /* TableViewController.m */; };
+		3A20A0821E6E3F13004A2994 /* ViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0471E6E3F13004A2994 /* ViewController.h */; };
+		3A20A0831E6E3F13004A2994 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0481E6E3F13004A2994 /* ViewController.m */; };
+		3A20A0841E6E3F13004A2994 /* WXSBaseViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0491E6E3F13004A2994 /* WXSBaseViewController.h */; };
+		3A20A0851E6E3F13004A2994 /* WXSBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A04A1E6E3F13004A2994 /* WXSBaseViewController.m */; };
+		3A20A0861E6E3F13004A2994 /* UINavigationController+WXSTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A04C1E6E3F13004A2994 /* UINavigationController+WXSTransition.h */; };
+		3A20A0871E6E3F13004A2994 /* UINavigationController+WXSTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A04D1E6E3F13004A2994 /* UINavigationController+WXSTransition.m */; };
+		3A20A0881E6E3F13004A2994 /* UIViewController+WXSTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A04E1E6E3F13004A2994 /* UIViewController+WXSTransition.h */; };
+		3A20A0891E6E3F13004A2994 /* UIViewController+WXSTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A04F1E6E3F13004A2994 /* UIViewController+WXSTransition.m */; };
+		3A20A08A1E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0501E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.h */; };
+		3A20A08B1E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0511E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.m */; };
+		3A20A08C1E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0521E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.h */; };
+		3A20A08D1E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0531E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.m */; };
+		3A20A08E1E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0541E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.h */; };
+		3A20A08F1E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0551E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.m */; };
+		3A20A0901E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0561E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.h */; };
+		3A20A0911E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0571E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.m */; };
+		3A20A0921E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0581E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.h */; };
+		3A20A0931E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0591E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.m */; };
+		3A20A0941E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A05A1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.h */; };
+		3A20A0951E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A05B1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.m */; };
+		3A20A0961E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A05C1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.h */; };
+		3A20A0971E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A05D1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.m */; };
+		3A20A0981E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A05E1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.h */; };
+		3A20A0991E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A05F1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.m */; };
+		3A20A09A1E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0601E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.h */; };
+		3A20A09B1E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0611E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.m */; };
+		3A20A09C1E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0621E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.h */; };
+		3A20A09D1E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0631E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.m */; };
+		3A20A09E1E6E3F13004A2994 /* WXSTransitionManager+TypeTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0641E6E3F13004A2994 /* WXSTransitionManager+TypeTool.h */; };
+		3A20A09F1E6E3F13004A2994 /* WXSTransitionManager+TypeTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0651E6E3F13004A2994 /* WXSTransitionManager+TypeTool.m */; };
+		3A20A0A01E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0661E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.h */; };
+		3A20A0A11E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0671E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m */; };
+		3A20A0A21E6E3F13004A2994 /* WXSTransitionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0681E6E3F13004A2994 /* WXSTransitionManager.h */; };
+		3A20A0A31E6E3F13004A2994 /* WXSTransitionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0691E6E3F13004A2994 /* WXSTransitionManager.m */; };
+		3A20A0A41E6E3F13004A2994 /* WXSTransitionProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A06A1E6E3F13004A2994 /* WXSTransitionProperty.h */; };
+		3A20A0A51E6E3F13004A2994 /* WXSTransitionProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A06B1E6E3F13004A2994 /* WXSTransitionProperty.m */; };
+		3A20A0A61E6E3F13004A2994 /* WXSTypedefConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A06C1E6E3F13004A2994 /* WXSTypedefConfig.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -902,6 +960,64 @@
 		3A209F7C1E6E3E3D004A2994 /* ZGFightUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGFightUtil.m; sourceTree = "<group>"; };
 		3A209F7D1E6E3E3D004A2994 /* ZGXMLUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGXMLUtil.h; sourceTree = "<group>"; };
 		3A209F7E1E6E3E3D004A2994 /* ZGXMLUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGXMLUtil.m; sourceTree = "<group>"; };
+		3A20A0301E6E3F13004A2994 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3A20A0311E6E3F13004A2994 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3A20A0321E6E3F13004A2994 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3A20A0341E6E3F13004A2994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3A20A0361E6E3F13004A2994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3A20A0371E6E3F13004A2994 /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		3A20A0381E6E3F13004A2994 /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
+		3A20A0391E6E3F13004A2994 /* CollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
+		3A20A03A1E6E3F13004A2994 /* CollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
+		3A20A03B1E6E3F13004A2994 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		3A20A03C1E6E3F13004A2994 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		3A20A03D1E6E3F13004A2994 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A20A03E1E6E3F13004A2994 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3A20A03F1E6E3F13004A2994 /* PageTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageTransition.h; sourceTree = "<group>"; };
+		3A20A0401E6E3F13004A2994 /* PageTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTransition.m; sourceTree = "<group>"; };
+		3A20A0411E6E3F13004A2994 /* PresentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresentViewController.h; sourceTree = "<group>"; };
+		3A20A0421E6E3F13004A2994 /* PresentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentViewController.m; sourceTree = "<group>"; };
+		3A20A0431E6E3F13004A2994 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		3A20A0441E6E3F13004A2994 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		3A20A0451E6E3F13004A2994 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		3A20A0461E6E3F13004A2994 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		3A20A0471E6E3F13004A2994 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		3A20A0481E6E3F13004A2994 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3A20A0491E6E3F13004A2994 /* WXSBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSBaseViewController.h; sourceTree = "<group>"; };
+		3A20A04A1E6E3F13004A2994 /* WXSBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXSBaseViewController.m; sourceTree = "<group>"; };
+		3A20A04C1E6E3F13004A2994 /* UINavigationController+WXSTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+WXSTransition.h"; sourceTree = "<group>"; };
+		3A20A04D1E6E3F13004A2994 /* UINavigationController+WXSTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+WXSTransition.m"; sourceTree = "<group>"; };
+		3A20A04E1E6E3F13004A2994 /* UIViewController+WXSTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+WXSTransition.h"; sourceTree = "<group>"; };
+		3A20A04F1E6E3F13004A2994 /* UIViewController+WXSTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+WXSTransition.m"; sourceTree = "<group>"; };
+		3A20A0501E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+WXSTransitionProperty.h"; sourceTree = "<group>"; };
+		3A20A0511E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+WXSTransitionProperty.m"; sourceTree = "<group>"; };
+		3A20A0521E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSPercentDrivenInteractiveTransition.h; sourceTree = "<group>"; };
+		3A20A0531E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXSPercentDrivenInteractiveTransition.m; sourceTree = "<group>"; };
+		3A20A0541E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+BoomAnimation.h"; sourceTree = "<group>"; };
+		3A20A0551E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+BoomAnimation.m"; sourceTree = "<group>"; };
+		3A20A0561E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+BrickAnimation.h"; sourceTree = "<group>"; };
+		3A20A0571E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+BrickAnimation.m"; sourceTree = "<group>"; };
+		3A20A0581E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+CoverAnimation.h"; sourceTree = "<group>"; };
+		3A20A0591E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+CoverAnimation.m"; sourceTree = "<group>"; };
+		3A20A05A1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+FragmentAnimation.h"; sourceTree = "<group>"; };
+		3A20A05B1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+FragmentAnimation.m"; sourceTree = "<group>"; };
+		3A20A05C1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+InsideThenPushAnimation.h"; sourceTree = "<group>"; };
+		3A20A05D1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+InsideThenPushAnimation.m"; sourceTree = "<group>"; };
+		3A20A05E1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+PageAnimation.h"; sourceTree = "<group>"; };
+		3A20A05F1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+PageAnimation.m"; sourceTree = "<group>"; };
+		3A20A0601E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+SpreadAnimation.h"; sourceTree = "<group>"; };
+		3A20A0611E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+SpreadAnimation.m"; sourceTree = "<group>"; };
+		3A20A0621E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+SystermAnimation.h"; sourceTree = "<group>"; };
+		3A20A0631E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+SystermAnimation.m"; sourceTree = "<group>"; };
+		3A20A0641E6E3F13004A2994 /* WXSTransitionManager+TypeTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+TypeTool.h"; sourceTree = "<group>"; };
+		3A20A0651E6E3F13004A2994 /* WXSTransitionManager+TypeTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+TypeTool.m"; sourceTree = "<group>"; };
+		3A20A0661E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WXSTransitionManager+ViewMoveAnimation.h"; sourceTree = "<group>"; };
+		3A20A0671E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "WXSTransitionManager+ViewMoveAnimation.m"; sourceTree = "<group>"; };
+		3A20A0681E6E3F13004A2994 /* WXSTransitionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSTransitionManager.h; sourceTree = "<group>"; };
+		3A20A0691E6E3F13004A2994 /* WXSTransitionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXSTransitionManager.m; sourceTree = "<group>"; };
+		3A20A06A1E6E3F13004A2994 /* WXSTransitionProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSTransitionProperty.h; sourceTree = "<group>"; };
+		3A20A06B1E6E3F13004A2994 /* WXSTransitionProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXSTransitionProperty.m; sourceTree = "<group>"; };
+		3A20A06C1E6E3F13004A2994 /* WXSTypedefConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSTypedefConfig.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -951,6 +1067,7 @@
 		3A209C6A1E6E3E2D004A2994 /* 3rd */ = {
 			isa = PBXGroup;
 			children = (
+				3A20A02F1E6E3F13004A2994 /* WXSTransition */,
 				3A209C6B1E6E3E2D004A2994 /* AFNetworking */,
 				3A209C791E6E3E2D004A2994 /* AvoidCrash */,
 				3A209C8E1E6E3E2D004A2994 /* CXSearch */,
@@ -2005,6 +2122,79 @@
 			path = XMLUtil;
 			sourceTree = "<group>";
 		};
+		3A20A02F1E6E3F13004A2994 /* WXSTransition */ = {
+			isa = PBXGroup;
+			children = (
+				3A20A0301E6E3F13004A2994 /* AppDelegate.h */,
+				3A20A0311E6E3F13004A2994 /* AppDelegate.m */,
+				3A20A0321E6E3F13004A2994 /* Assets.xcassets */,
+				3A20A0331E6E3F13004A2994 /* LaunchScreen.storyboard */,
+				3A20A0351E6E3F13004A2994 /* Main.storyboard */,
+				3A20A0371E6E3F13004A2994 /* CollectionViewCell.h */,
+				3A20A0381E6E3F13004A2994 /* CollectionViewCell.m */,
+				3A20A0391E6E3F13004A2994 /* CollectionViewController.h */,
+				3A20A03A1E6E3F13004A2994 /* CollectionViewController.m */,
+				3A20A03B1E6E3F13004A2994 /* DetailViewController.h */,
+				3A20A03C1E6E3F13004A2994 /* DetailViewController.m */,
+				3A20A03D1E6E3F13004A2994 /* Info.plist */,
+				3A20A03E1E6E3F13004A2994 /* main.m */,
+				3A20A03F1E6E3F13004A2994 /* PageTransition.h */,
+				3A20A0401E6E3F13004A2994 /* PageTransition.m */,
+				3A20A0411E6E3F13004A2994 /* PresentViewController.h */,
+				3A20A0421E6E3F13004A2994 /* PresentViewController.m */,
+				3A20A0431E6E3F13004A2994 /* SecondViewController.h */,
+				3A20A0441E6E3F13004A2994 /* SecondViewController.m */,
+				3A20A0451E6E3F13004A2994 /* TableViewController.h */,
+				3A20A0461E6E3F13004A2994 /* TableViewController.m */,
+				3A20A0471E6E3F13004A2994 /* ViewController.h */,
+				3A20A0481E6E3F13004A2994 /* ViewController.m */,
+				3A20A0491E6E3F13004A2994 /* WXSBaseViewController.h */,
+				3A20A04A1E6E3F13004A2994 /* WXSBaseViewController.m */,
+				3A20A04B1E6E3F13004A2994 /* WXSTransition */,
+			);
+			path = WXSTransition;
+			sourceTree = "<group>";
+		};
+		3A20A04B1E6E3F13004A2994 /* WXSTransition */ = {
+			isa = PBXGroup;
+			children = (
+				3A20A04C1E6E3F13004A2994 /* UINavigationController+WXSTransition.h */,
+				3A20A04D1E6E3F13004A2994 /* UINavigationController+WXSTransition.m */,
+				3A20A04E1E6E3F13004A2994 /* UIViewController+WXSTransition.h */,
+				3A20A04F1E6E3F13004A2994 /* UIViewController+WXSTransition.m */,
+				3A20A0501E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.h */,
+				3A20A0511E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.m */,
+				3A20A0521E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.h */,
+				3A20A0531E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.m */,
+				3A20A0541E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.h */,
+				3A20A0551E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.m */,
+				3A20A0561E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.h */,
+				3A20A0571E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.m */,
+				3A20A0581E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.h */,
+				3A20A0591E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.m */,
+				3A20A05A1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.h */,
+				3A20A05B1E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.m */,
+				3A20A05C1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.h */,
+				3A20A05D1E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.m */,
+				3A20A05E1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.h */,
+				3A20A05F1E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.m */,
+				3A20A0601E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.h */,
+				3A20A0611E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.m */,
+				3A20A0621E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.h */,
+				3A20A0631E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.m */,
+				3A20A0641E6E3F13004A2994 /* WXSTransitionManager+TypeTool.h */,
+				3A20A0651E6E3F13004A2994 /* WXSTransitionManager+TypeTool.m */,
+				3A20A0661E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.h */,
+				3A20A0671E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m */,
+				3A20A0681E6E3F13004A2994 /* WXSTransitionManager.h */,
+				3A20A0691E6E3F13004A2994 /* WXSTransitionManager.m */,
+				3A20A06A1E6E3F13004A2994 /* WXSTransitionProperty.h */,
+				3A20A06B1E6E3F13004A2994 /* WXSTransitionProperty.m */,
+				3A20A06C1E6E3F13004A2994 /* WXSTypedefConfig.h */,
+			);
+			path = WXSTransition;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -2036,12 +2226,14 @@
 				3A209FFF1E6E3E3E004A2994 /* FontAttribute.h in Headers */,
 				3A20A00D1E6E3E3E004A2994 /* StringAttributeProtocol.h in Headers */,
 				3A209E531E6E3E2D004A2994 /* NSData+ImageContentType.h in Headers */,
+				3A20A0861E6E3F13004A2994 /* UINavigationController+WXSTransition.h in Headers */,
 				3A209FA91E6E3E3E004A2994 /* UIImage+ImageCompress.h in Headers */,
 				3A209D9B1E6E3E2D004A2994 /* AFHTTPSessionManager.h in Headers */,
 				3A209DA01E6E3E2D004A2994 /* AFSecurityPolicy.h in Headers */,
 				3A209FD61E6E3E3E004A2994 /* NSString+Hashing.h in Headers */,
 				3A209EAC1E6E3E35004A2994 /* Constant.h in Headers */,
 				3A209E661E6E3E2D004A2994 /* UIImage+GIF.h in Headers */,
+				3A20A08E1E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.h in Headers */,
 				3A209E7D1E6E3E2D004A2994 /* SVProgressAnimatedView.h in Headers */,
 				3A209FFD1E6E3E3E004A2994 /* SinaUtil.h in Headers */,
 				3A209E271E6E3E2D004A2994 /* MJRefreshComponent.h in Headers */,
@@ -2061,6 +2253,7 @@
 				3A209E591E6E3E2D004A2994 /* SDWebImageDecoder.h in Headers */,
 				3A209E211E6E3E2D004A2994 /* ViewController+MASAdditions.h in Headers */,
 				3A209E111E6E3E2D004A2994 /* MASLayoutConstraint.h in Headers */,
+				3A20A0721E6E3F13004A2994 /* CollectionViewCell.h in Headers */,
 				3A209E191E6E3E2D004A2994 /* NSArray+MASAdditions.h in Headers */,
 				3A209FFB1E6E3E3E004A2994 /* UIViewController+RTRootNavigationController.h in Headers */,
 				3A209EB01E6E3E35004A2994 /* StoryBoardIdentifier.h in Headers */,
@@ -2070,6 +2263,7 @@
 				3A209FAF1E6E3E3E004A2994 /* UITableView+EmptyData.h in Headers */,
 				3A209FC21E6E3E3E004A2994 /* DOPDropDownMenu.h in Headers */,
 				3A209DF91E6E3E2D004A2994 /* JTHorizontalCalendarView.h in Headers */,
+				3A20A09E1E6E3F13004A2994 /* WXSTransitionManager+TypeTool.h in Headers */,
 				3A209DE51E6E3E2D004A2994 /* JTCalendarDelegateManager.h in Headers */,
 				3A209E411E6E3E2D004A2994 /* MJRefreshConst.h in Headers */,
 				3A209E831E6E3E2D004A2994 /* SVRadialGradientLayer.h in Headers */,
@@ -2079,6 +2273,7 @@
 				3A209E851E6E3E2D004A2994 /* TTSwitch.h in Headers */,
 				3A209DB81E6E3E2D004A2994 /* NSObject+AvoidCrash.h in Headers */,
 				3A209E151E6E3E2D004A2994 /* MASViewAttribute.h in Headers */,
+				3A20A0761E6E3F13004A2994 /* DetailViewController.h in Headers */,
 				3A209F991E6E3E3E004A2994 /* UIAlertController+SupportedInterface.h in Headers */,
 				3A209E911E6E3E2D004A2994 /* YYCache.h in Headers */,
 				3A209E131E6E3E2D004A2994 /* Masonry.h in Headers */,
@@ -2087,9 +2282,11 @@
 				3A209DB41E6E3E2D004A2994 /* NSMutableDictionary+AvoidCrash.h in Headers */,
 				3A209DEA1E6E3E2D004A2994 /* JTCalendarPage.h in Headers */,
 				3A209F8F1E6E3E3E004A2994 /* CALayer+LayerColor.h in Headers */,
+				3A20A0821E6E3F13004A2994 /* ViewController.h in Headers */,
 				3A209D9E1E6E3E2D004A2994 /* AFNetworkReachabilityManager.h in Headers */,
 				3A209DC81E6E3E2D004A2994 /* GDataXMLNode.h in Headers */,
 				3A209E3D1E6E3E2D004A2994 /* MJRefreshStateHeader.h in Headers */,
+				3A20A0A21E6E3F13004A2994 /* WXSTransitionManager.h in Headers */,
 				3A209F8B1E6E3E3E004A2994 /* OfflineCacheManager.h in Headers */,
 				3A209E231E6E3E2D004A2994 /* MJRefreshAutoFooter.h in Headers */,
 				3A209E2D1E6E3E2D004A2994 /* MJRefreshAutoGifFooter.h in Headers */,
@@ -2106,11 +2303,14 @@
 				3A209FA51E6E3E3E004A2994 /* UIImage+CircleImage.h in Headers */,
 				3A209DCA1E6E3E2D004A2994 /* UIGenTableView.h in Headers */,
 				3A209F851E6E3E3E004A2994 /* NetworkState.h in Headers */,
+				3A20A0841E6E3F13004A2994 /* WXSBaseViewController.h in Headers */,
 				3A209FF51E6E3E3E004A2994 /* ReverseTypeName.h in Headers */,
 				3A209E491E6E3E2D004A2994 /* UIView+MJExtension.h in Headers */,
+				3A20A0981E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.h in Headers */,
 				3A20A0231E6E3E3E004A2994 /* XmlNode.h in Headers */,
 				3A209E2B1E6E3E2D004A2994 /* MJRefreshHeader.h in Headers */,
 				3A209FF11E6E3E3E004A2994 /* NotificationHandler.h in Headers */,
+				3A20A06D1E6E3F13004A2994 /* AppDelegate.h in Headers */,
 				3A209E951E6E3E2D004A2994 /* YYKVStorage.h in Headers */,
 				3A209FB31E6E3E3E004A2994 /* UIView+NibView.h in Headers */,
 				3A209E5D1E6E3E2D004A2994 /* SDWebImageDownloaderOperation.h in Headers */,
@@ -2130,10 +2330,14 @@
 				3A209E6C1E6E3E2D004A2994 /* UIImageView+HighlightedWebCache.h in Headers */,
 				3A209E021E6E3E2D004A2994 /* WBHttpRequest.h in Headers */,
 				3A209DEF1E6E3E2D004A2994 /* JTCalendarDayView.h in Headers */,
+				3A20A07A1E6E3F13004A2994 /* PageTransition.h in Headers */,
 				3A209FA71E6E3E3E004A2994 /* UIImage+CornerView.h in Headers */,
 				3A209DB21E6E3E2D004A2994 /* NSMutableAttributedString+AvoidCrash.h in Headers */,
 				3A209E931E6E3E2D004A2994 /* YYDiskCache.h in Headers */,
+				3A20A07C1E6E3F13004A2994 /* PresentViewController.h in Headers */,
 				3A209E621E6E3E2D004A2994 /* SDWebImagePrefetcher.h in Headers */,
+				3A20A0A61E6E3F13004A2994 /* WXSTypedefConfig.h in Headers */,
+				3A20A0901E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.h in Headers */,
 				3A209F9B1E6E3E3E004A2994 /* UIButton+EnlargeEdge.h in Headers */,
 				3A209FC01E6E3E3E004A2994 /* KeychainItemWrapper.h in Headers */,
 				3A209DCC1E6E3E2D004A2994 /* JSONModel.h in Headers */,
@@ -2162,7 +2366,9 @@
 				3A209FCB1E6E3E3E004A2994 /* CacheImage.h in Headers */,
 				3A209FC91E6E3E3E004A2994 /* FirstOrNO.h in Headers */,
 				3A209DA41E6E3E2D004A2994 /* AFURLResponseSerialization.h in Headers */,
+				3A20A0881E6E3F13004A2994 /* UIViewController+WXSTransition.h in Headers */,
 				3A209DC41E6E3E2D004A2994 /* DCRoundSwitchToggleLayer.h in Headers */,
+				3A20A07E1E6E3F13004A2994 /* SecondViewController.h in Headers */,
 				3A209E1C1E6E3E2D004A2994 /* NSLayoutConstraint+MASDebugAdditions.h in Headers */,
 				3A209E0C1E6E3E2D004A2994 /* MASConstraint+Private.h in Headers */,
 				3A209EAD1E6E3E35004A2994 /* Font.h in Headers */,
@@ -2177,6 +2383,7 @@
 				3A209DEC1E6E3E2D004A2994 /* JTCalendarWeekDay.h in Headers */,
 				3A209DFE1E6E3E2D004A2994 /* WBHttpRequest+WeiboGame.h in Headers */,
 				3A209E8F1E6E3E2D004A2994 /* XMLDictionary.h in Headers */,
+				3A20A0961E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.h in Headers */,
 				3A20A02D1E6E3E3E004A2994 /* ZGXMLUtil.h in Headers */,
 				3A209EAF1E6E3E35004A2994 /* NotificationIdentifier.h in Headers */,
 				3A209E611E6E3E2D004A2994 /* SDWebImageOperation.h in Headers */,
@@ -2191,18 +2398,24 @@
 				3A209E401E6E3E2D004A2994 /* MJRefresh.h in Headers */,
 				3A209F951E6E3E3E004A2994 /* NSDate+LocalTimeZoneDate.h in Headers */,
 				3A209FE51E6E3E3E004A2994 /* UISplitViewController+MemoryLeak.h in Headers */,
+				3A20A0741E6E3F13004A2994 /* CollectionViewController.h in Headers */,
+				3A20A0921E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.h in Headers */,
+				3A20A09A1E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.h in Headers */,
 				3A209FF91E6E3E3E004A2994 /* RTRootNavigationController.h in Headers */,
 				3A209C641E6E3E09004A2994 /* KitLabrary.h in Headers */,
 				3A209E6A1E6E3E2D004A2994 /* UIImage+WebP.h in Headers */,
 				3A20A01C1E6E3E3E004A2994 /* XHStringOperation.h in Headers */,
+				3A20A0941E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.h in Headers */,
 				3A209DC01E6E3E2D004A2994 /* DCRoundSwitchKnobLayer.h in Headers */,
 				3A209FDF1E6E3E3E004A2994 /* UIApplication+MemoryLeak.h in Headers */,
 				3A20A00A1E6E3E3E004A2994 /* StringAttribute.h in Headers */,
 				3A209FE11E6E3E3E004A2994 /* UINavigationController+MemoryLeak.h in Headers */,
+				3A20A0A41E6E3F13004A2994 /* WXSTransitionProperty.h in Headers */,
 				3A209FC71E6E3E3E004A2994 /* FectoryUI.h in Headers */,
 				3A209DEE1E6E3E2D004A2994 /* JTMenu.h in Headers */,
 				3A209DBA1E6E3E2D004A2994 /* NSString+AvoidCrash.h in Headers */,
 				3A209DEB1E6E3E2D004A2994 /* JTCalendarWeek.h in Headers */,
+				3A20A08A1E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.h in Headers */,
 				3A209E1E1E6E3E2D004A2994 /* View+MASAdditions.h in Headers */,
 				3A209FE71E6E3E3E004A2994 /* UITabBarController+MemoryLeak.h in Headers */,
 				3A20A0071E6E3E3E004A2994 /* ParagraphStyleAttribute.h in Headers */,
@@ -2217,11 +2430,15 @@
 				3A20A0181E6E3E3E004A2994 /* UserInfoSaveManager.h in Headers */,
 				3A209EB41E6E3E35004A2994 /* UserConfig.h in Headers */,
 				3A209DE71E6E3E2D004A2994 /* JTCalendarScrollManager.h in Headers */,
+				3A20A08C1E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.h in Headers */,
 				3A209F8D1E6E3E3E004A2994 /* AFHTTPSessionManager+SharedManager.h in Headers */,
 				3A209DDF1E6E3E2D004A2994 /* JTCalendarManager.h in Headers */,
 				3A209FDB1E6E3E3E004A2994 /* MLeaksMessenger.h in Headers */,
 				3A209F7F1E6E3E3E004A2994 /* APIClient.h in Headers */,
+				3A20A0801E6E3F13004A2994 /* TableViewController.h in Headers */,
 				3A20A0051E6E3E3E004A2994 /* NSString+StringAttribute.h in Headers */,
+				3A20A09C1E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.h in Headers */,
+				3A20A0A01E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.h in Headers */,
 				3A209E0D1E6E3E2D004A2994 /* MASConstraint.h in Headers */,
 				3A209FAB1E6E3E3E004A2994 /* UIImagePickerController+InterfaceOriectation.h in Headers */,
 				3A209DAC1E6E3E2D004A2994 /* NSAttributedString+AvoidCrash.h in Headers */,
@@ -2292,6 +2509,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 3A209C551E6E3E09004A2994;
 			productRefGroup = 3A209C601E6E3E09004A2994 /* Products */;
@@ -2308,16 +2526,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A20A0781E6E3F13004A2994 /* Info.plist in Resources */,
 				3A209E501E6E3E2D004A2994 /* TencentOpenApi_IOS_Bundle.bundle in Resources */,
 				3A209FC51E6E3E3E004A2994 /* icon_chose_arrow_sel@2x.png in Resources */,
 				3A209E3F1E6E3E2D004A2994 /* MJRefresh.bundle in Resources */,
 				3A209FF71E6E3E3E004A2994 /* .gitkeep in Resources */,
 				3A20A0091E6E3E3E004A2994 /* readme.txt in Resources */,
 				3A20A0221E6E3E3E004A2994 /* xml_content.xml in Resources */,
+				3A20A0711E6E3F13004A2994 /* Main.storyboard in Resources */,
+				3A20A06F1E6E3F13004A2994 /* Assets.xcassets in Resources */,
 				3A209FC61E6E3E3E004A2994 /* icon_chose_bottom@2x.png in Resources */,
 				3A209FC41E6E3E3E004A2994 /* icon_chose_arrow_nor@2x.png in Resources */,
 				3A209FCD1E6E3E3E004A2994 /* loading.gif in Resources */,
 				3A209FF81E6E3E3E004A2994 /* .gitkeep in Resources */,
+				3A20A0701E6E3F13004A2994 /* LaunchScreen.storyboard in Resources */,
 				3A209E071E6E3E2D004A2994 /* WeiboSDK.bundle in Resources */,
 				3A209E801E6E3E2D004A2994 /* SVProgressHUD.bundle in Resources */,
 			);
@@ -2333,7 +2555,9 @@
 				3A209FA61E6E3E3E004A2994 /* UIImage+CircleImage.m in Sources */,
 				3A209DD41E6E3E2D004A2994 /* JSONAPI.m in Sources */,
 				3A209DB11E6E3E2D004A2994 /* NSMutableArray+AvoidCrash.m in Sources */,
+				3A20A07B1E6E3F13004A2994 /* PageTransition.m in Sources */,
 				3A209DBD1E6E3E2D004A2994 /* HoursAndDaysHelp.m in Sources */,
+				3A20A09D1E6E3F13004A2994 /* WXSTransitionManager+SystermAnimation.m in Sources */,
 				3A209DDA1E6E3E2D004A2994 /* JSONKeyMapper.m in Sources */,
 				3A20A00F1E6E3E3E004A2994 /* TimerShared.m in Sources */,
 				3A209E121E6E3E2D004A2994 /* MASLayoutConstraint.m in Sources */,
@@ -2343,12 +2567,14 @@
 				3A209E2E1E6E3E2D004A2994 /* MJRefreshAutoGifFooter.m in Sources */,
 				3A209FB21E6E3E3E004A2994 /* UIView+ClipsAnyCorner.m in Sources */,
 				3A20A0001E6E3E3E004A2994 /* FontAttribute.m in Sources */,
+				3A20A0851E6E3F13004A2994 /* WXSBaseViewController.m in Sources */,
 				3A209E7A1E6E3E2D004A2994 /* ONOXMLDocument.m in Sources */,
 				3A209DF21E6E3E2D004A2994 /* JTCalendarMenuView.m in Sources */,
 				3A20A01B1E6E3E3E004A2994 /* WXUtil.m in Sources */,
 				3A209E841E6E3E2D004A2994 /* SVRadialGradientLayer.m in Sources */,
 				3A209FEE1E6E3E3E004A2994 /* UIViewController+MemoryLeak.m in Sources */,
 				3A209E0E1E6E3E2D004A2994 /* MASConstraint.m in Sources */,
+				3A20A07D1E6E3F13004A2994 /* PresentViewController.m in Sources */,
 				3A209E3C1E6E3E2D004A2994 /* MJRefreshNormalHeader.m in Sources */,
 				3A209E161E6E3E2D004A2994 /* MASViewAttribute.m in Sources */,
 				3A209FB01E6E3E3E004A2994 /* UITableView+EmptyData.m in Sources */,
@@ -2359,16 +2585,21 @@
 				3A209DF61E6E3E2D004A2994 /* JTCalendarWeekDayView.m in Sources */,
 				3A209E241E6E3E2D004A2994 /* MJRefreshAutoFooter.m in Sources */,
 				3A209DC11E6E3E2D004A2994 /* DCRoundSwitchKnobLayer.m in Sources */,
+				3A20A0771E6E3F13004A2994 /* DetailViewController.m in Sources */,
 				3A209FFE1E6E3E3E004A2994 /* SinaUtil.m in Sources */,
 				3A209E7E1E6E3E2D004A2994 /* SVProgressAnimatedView.m in Sources */,
+				3A20A08F1E6E3F13004A2994 /* WXSTransitionManager+BoomAnimation.m in Sources */,
+				3A20A0951E6E3F13004A2994 /* WXSTransitionManager+FragmentAnimation.m in Sources */,
 				3A209E101E6E3E2D004A2994 /* MASConstraintMaker.m in Sources */,
 				3A209FAC1E6E3E3E004A2994 /* UIImagePickerController+InterfaceOriectation.m in Sources */,
 				3A209FC81E6E3E3E004A2994 /* FectoryUI.m in Sources */,
 				3A20A0041E6E3E3E004A2994 /* NSMutableAttributedString+StringAttribute.m in Sources */,
+				3A20A0911E6E3F13004A2994 /* WXSTransitionManager+BrickAnimation.m in Sources */,
 				3A209FA41E6E3E3E004A2994 /* UIDevice+UserInfo.m in Sources */,
 				3A209FA01E6E3E3E004A2994 /* UIControl+FMGControl.m in Sources */,
 				3A209DAD1E6E3E2D004A2994 /* NSAttributedString+AvoidCrash.m in Sources */,
 				3A209EAB1E6E3E35004A2994 /* Color.m in Sources */,
+				3A20A0991E6E3F13004A2994 /* WXSTransitionManager+PageAnimation.m in Sources */,
 				3A20A0171E6E3E3E004A2994 /* SearchHistoryManager.m in Sources */,
 				3A209E321E6E3E2D004A2994 /* MJRefreshAutoStateFooter.m in Sources */,
 				3A209E261E6E3E2D004A2994 /* MJRefreshBackFooter.m in Sources */,
@@ -2378,6 +2609,7 @@
 				3A209FB61E6E3E3E004A2994 /* CleanCacheManager.m in Sources */,
 				3A209EB51E6E3E35004A2994 /* UserConfig.m in Sources */,
 				3A20A0081E6E3E3E004A2994 /* ParagraphStyleAttribute.m in Sources */,
+				3A20A0A11E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m in Sources */,
 				3A209E941E6E3E2D004A2994 /* YYDiskCache.m in Sources */,
 				3A209E181E6E3E2D004A2994 /* MASViewConstraint.m in Sources */,
 				3A209DAF1E6E3E2D004A2994 /* NSDictionary+AvoidCrash.m in Sources */,
@@ -2385,10 +2617,13 @@
 				3A209FA81E6E3E3E004A2994 /* UIImage+CornerView.m in Sources */,
 				3A209F841E6E3E3E004A2994 /* LYHTTPClient.m in Sources */,
 				3A209E861E6E3E2D004A2994 /* TTSwitch.m in Sources */,
+				3A20A0A51E6E3F13004A2994 /* WXSTransitionProperty.m in Sources */,
 				3A209DD81E6E3E2D004A2994 /* JSONModel+networking.m in Sources */,
 				3A20A0061E6E3E3E004A2994 /* NSString+StringAttribute.m in Sources */,
 				3A20A0131E6E3E3E004A2994 /* DataBaseManager.m in Sources */,
 				3A209DA11E6E3E2D004A2994 /* AFSecurityPolicy.m in Sources */,
+				3A20A08D1E6E3F13004A2994 /* WXSPercentDrivenInteractiveTransition.m in Sources */,
+				3A20A06E1E6E3F13004A2994 /* AppDelegate.m in Sources */,
 				3A209DC91E6E3E2D004A2994 /* GDataXMLNode.m in Sources */,
 				3A209DB91E6E3E2D004A2994 /* NSObject+AvoidCrash.m in Sources */,
 				3A209DC31E6E3E2D004A2994 /* DCRoundSwitchOutlineLayer.m in Sources */,
@@ -2419,6 +2654,7 @@
 				3A209E1F1E6E3E2D004A2994 /* View+MASAdditions.m in Sources */,
 				3A209E361E6E3E2D004A2994 /* MJRefreshBackNormalFooter.m in Sources */,
 				3A209E1A1E6E3E2D004A2994 /* NSArray+MASAdditions.m in Sources */,
+				3A20A0A31E6E3F13004A2994 /* WXSTransitionManager.m in Sources */,
 				3A209F961E6E3E3E004A2994 /* NSDate+LocalTimeZoneDate.m in Sources */,
 				3A209FE81E6E3E3E004A2994 /* UITabBarController+MemoryLeak.m in Sources */,
 				3A209E6B1E6E3E2D004A2994 /* UIImage+WebP.m in Sources */,
@@ -2428,23 +2664,28 @@
 				3A209E381E6E3E2D004A2994 /* MJRefreshBackStateFooter.m in Sources */,
 				3A209F9E1E6E3E3E004A2994 /* UIButton+touch.m in Sources */,
 				3A209FAA1E6E3E3E004A2994 /* UIImage+ImageCompress.m in Sources */,
+				3A20A0831E6E3F13004A2994 /* ViewController.m in Sources */,
 				3A209EAE1E6E3E35004A2994 /* Font.m in Sources */,
 				3A20A00B1E6E3E3E004A2994 /* StringAttribute.m in Sources */,
 				3A209FDE1E6E3E3E004A2994 /* NSObject+MemoryLeak.m in Sources */,
 				3A209E771E6E3E2D004A2994 /* SKTagView.m in Sources */,
 				3A209F901E6E3E3E004A2994 /* CALayer+LayerColor.m in Sources */,
+				3A20A08B1E6E3F13004A2994 /* UIViewController+WXSTransitionProperty.m in Sources */,
+				3A20A09B1E6E3F13004A2994 /* WXSTransitionManager+SpreadAnimation.m in Sources */,
 				3A209E441E6E3E2D004A2994 /* NSBundle+MJRefresh.m in Sources */,
 				3A209DD61E6E3E2D004A2994 /* JSONHTTPClient.m in Sources */,
 				3A209FA21E6E3E3E004A2994 /* UIDevice+Orientation.m in Sources */,
 				3A209FF61E6E3E3E004A2994 /* ReverseTypeName.m in Sources */,
 				3A209FCA1E6E3E3E004A2994 /* FirstOrNO.m in Sources */,
 				3A209FC31E6E3E3E004A2994 /* DOPDropDownMenu.m in Sources */,
+				3A20A0731E6E3F13004A2994 /* CollectionViewCell.m in Sources */,
 				3A209F821E6E3E3E004A2994 /* HttpTools.m in Sources */,
 				3A209FD91E6E3E3E004A2994 /* MLeakedObjectProxy.m in Sources */,
 				3A209E4E1E6E3E2D004A2994 /* NJKWebViewProgressView.m in Sources */,
 				3A209E731E6E3E2D004A2994 /* SKTag.m in Sources */,
 				3A209FF01E6E3E3E004A2994 /* NoMoreData.m in Sources */,
 				3A209DCB1E6E3E2D004A2994 /* UIGenTableView.m in Sources */,
+				3A20A0931E6E3F13004A2994 /* WXSTransitionManager+CoverAnimation.m in Sources */,
 				3A209E561E6E3E2D004A2994 /* SDImageCache.m in Sources */,
 				3A209DA71E6E3E2D004A2994 /* AFURLSessionManager.m in Sources */,
 				3A20A02A1E6E3E3E004A2994 /* XMLUtil.m in Sources */,
@@ -2473,8 +2714,11 @@
 				3A209E3E1E6E3E2D004A2994 /* MJRefreshStateHeader.m in Sources */,
 				3A209E521E6E3E2D004A2994 /* MKAnnotationView+WebCache.m in Sources */,
 				3A209F921E6E3E3E004A2994 /* MFMailComposeViewController+Mail.m in Sources */,
+				3A20A09F1E6E3F13004A2994 /* WXSTransitionManager+TypeTool.m in Sources */,
+				3A20A0891E6E3F13004A2994 /* UIViewController+WXSTransition.m in Sources */,
 				3A209FBB1E6E3E3E004A2994 /* WSTextField.m in Sources */,
 				3A209E631E6E3E2D004A2994 /* SDWebImagePrefetcher.m in Sources */,
+				3A20A07F1E6E3F13004A2994 /* SecondViewController.m in Sources */,
 				3A209E581E6E3E2D004A2994 /* SDWebImageCompat.m in Sources */,
 				3A209DF01E6E3E2D004A2994 /* JTCalendarDayView.m in Sources */,
 				3A209E1D1E6E3E2D004A2994 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
@@ -2491,12 +2735,16 @@
 				3A209E5C1E6E3E2D004A2994 /* SDWebImageDownloader.m in Sources */,
 				3A20A0281E6E3E3E004A2994 /* XmlResolve2.m in Sources */,
 				3A209FE41E6E3E3E004A2994 /* UIPageViewController+MemoryLeak.m in Sources */,
+				3A20A0871E6E3F13004A2994 /* UINavigationController+WXSTransition.m in Sources */,
 				3A209DD11E6E3E2D004A2994 /* JSONModelError.m in Sources */,
 				3A209E3A1E6E3E2D004A2994 /* MJRefreshGifHeader.m in Sources */,
 				3A20A0151E6E3E3E004A2994 /* FileStoreManager.m in Sources */,
 				3A209DA91E6E3E2D004A2994 /* AvoidCrash.m in Sources */,
+				3A20A0971E6E3F13004A2994 /* WXSTransitionManager+InsideThenPushAnimation.m in Sources */,
 				3A209E751E6E3E2D004A2994 /* SKTagButton.m in Sources */,
 				3A209DF81E6E3E2D004A2994 /* JTCalendarWeekView.m in Sources */,
+				3A20A0811E6E3F13004A2994 /* TableViewController.m in Sources */,
+				3A20A0751E6E3F13004A2994 /* CollectionViewController.m in Sources */,
 				3A209FB41E6E3E3E004A2994 /* UIView+NibView.m in Sources */,
 				3A209DDC1E6E3E2D004A2994 /* JSONValueTransformer.m in Sources */,
 				3A209DC51E6E3E2D004A2994 /* DCRoundSwitchToggleLayer.m in Sources */,
@@ -2509,6 +2757,7 @@
 				3A209FE61E6E3E3E004A2994 /* UISplitViewController+MemoryLeak.m in Sources */,
 				3A209FF21E6E3E3E004A2994 /* NotificationHandler.m in Sources */,
 				3A20A0261E6E3E3E004A2994 /* XmlPackage.m in Sources */,
+				3A20A0791E6E3F13004A2994 /* main.m in Sources */,
 				3A209E221E6E3E2D004A2994 /* ViewController+MASAdditions.m in Sources */,
 				3A209F941E6E3E3E004A2994 /* NSArray+UrlParameter.m in Sources */,
 				3A209E4C1E6E3E2D004A2994 /* NJKWebViewProgress.m in Sources */,
@@ -2528,6 +2777,25 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3A20A0331E6E3F13004A2994 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A20A0341E6E3F13004A2994 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		3A20A0351E6E3F13004A2994 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3A20A0361E6E3F13004A2994 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		3A209C651E6E3E09004A2994 /* Debug */ = {
