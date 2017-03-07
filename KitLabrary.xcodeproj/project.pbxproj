@@ -510,6 +510,16 @@
 		3A20A0A41E6E3F13004A2994 /* WXSTransitionProperty.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A06A1E6E3F13004A2994 /* WXSTransitionProperty.h */; };
 		3A20A0A51E6E3F13004A2994 /* WXSTransitionProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A06B1E6E3F13004A2994 /* WXSTransitionProperty.m */; };
 		3A20A0A61E6E3F13004A2994 /* WXSTypedefConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A06C1E6E3F13004A2994 /* WXSTypedefConfig.h */; };
+		3A20A0B51E6E9D0A004A2994 /* Scaner.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A0AA1E6E9D0A004A2994 /* Scaner.storyboard */; };
+		3A20A0B61E6E9D0A004A2994 /* ScanerVC.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0AB1E6E9D0A004A2994 /* ScanerVC.h */; };
+		3A20A0B71E6E9D0A004A2994 /* ScanerVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0AC1E6E9D0A004A2994 /* ScanerVC.m */; };
+		3A20A0B81E6E9D0A004A2994 /* ff_QRCodeScanLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A20A0AE1E6E9D0A004A2994 /* ff_QRCodeScanLine@2x.png */; };
+		3A20A0B91E6E9D0A004A2994 /* ScanerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0AF1E6E9D0A004A2994 /* ScanerView.h */; };
+		3A20A0BA1E6E9D0A004A2994 /* ScanerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0B01E6E9D0A004A2994 /* ScanerView.m */; };
+		3A20A0BB1E6E9D0A004A2994 /* ScanResultViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0B11E6E9D0A004A2994 /* ScanResultViewController.h */; };
+		3A20A0BC1E6E9D0A004A2994 /* ScanResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0B21E6E9D0A004A2994 /* ScanResultViewController.m */; };
+		3A20A0BD1E6E9D0A004A2994 /* ScanVideo3DViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0B31E6E9D0A004A2994 /* ScanVideo3DViewController.h */; };
+		3A20A0BE1E6E9D0A004A2994 /* ScanVideo3DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0B41E6E9D0A004A2994 /* ScanVideo3DViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1018,6 +1028,16 @@
 		3A20A06A1E6E3F13004A2994 /* WXSTransitionProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSTransitionProperty.h; sourceTree = "<group>"; };
 		3A20A06B1E6E3F13004A2994 /* WXSTransitionProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXSTransitionProperty.m; sourceTree = "<group>"; };
 		3A20A06C1E6E3F13004A2994 /* WXSTypedefConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXSTypedefConfig.h; sourceTree = "<group>"; };
+		3A20A0AA1E6E9D0A004A2994 /* Scaner.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Scaner.storyboard; sourceTree = "<group>"; };
+		3A20A0AB1E6E9D0A004A2994 /* ScanerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanerVC.h; sourceTree = "<group>"; };
+		3A20A0AC1E6E9D0A004A2994 /* ScanerVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanerVC.m; sourceTree = "<group>"; };
+		3A20A0AE1E6E9D0A004A2994 /* ff_QRCodeScanLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ff_QRCodeScanLine@2x.png"; sourceTree = "<group>"; };
+		3A20A0AF1E6E9D0A004A2994 /* ScanerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanerView.h; sourceTree = "<group>"; };
+		3A20A0B01E6E9D0A004A2994 /* ScanerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanerView.m; sourceTree = "<group>"; };
+		3A20A0B11E6E9D0A004A2994 /* ScanResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanResultViewController.h; sourceTree = "<group>"; };
+		3A20A0B21E6E9D0A004A2994 /* ScanResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanResultViewController.m; sourceTree = "<group>"; };
+		3A20A0B31E6E9D0A004A2994 /* ScanVideo3DViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanVideo3DViewController.h; sourceTree = "<group>"; };
+		3A20A0B41E6E9D0A004A2994 /* ScanVideo3DViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanVideo3DViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1055,6 +1075,7 @@
 		3A209C611E6E3E09004A2994 /* KitLabrary */ = {
 			isa = PBXGroup;
 			children = (
+				3A20A0A91E6E9D0A004A2994 /* ScanerVC */,
 				3A209EB61E6E3E3D004A2994 /* Helper */,
 				3A209E991E6E3E35004A2994 /* Constant */,
 				3A209C6A1E6E3E2D004A2994 /* 3rd */,
@@ -2195,6 +2216,31 @@
 			path = WXSTransition;
 			sourceTree = "<group>";
 		};
+		3A20A0A91E6E9D0A004A2994 /* ScanerVC */ = {
+			isa = PBXGroup;
+			children = (
+				3A20A0AA1E6E9D0A004A2994 /* Scaner.storyboard */,
+				3A20A0AB1E6E9D0A004A2994 /* ScanerVC.h */,
+				3A20A0AC1E6E9D0A004A2994 /* ScanerVC.m */,
+				3A20A0AD1E6E9D0A004A2994 /* ScanerView */,
+				3A20A0B11E6E9D0A004A2994 /* ScanResultViewController.h */,
+				3A20A0B21E6E9D0A004A2994 /* ScanResultViewController.m */,
+				3A20A0B31E6E9D0A004A2994 /* ScanVideo3DViewController.h */,
+				3A20A0B41E6E9D0A004A2994 /* ScanVideo3DViewController.m */,
+			);
+			path = ScanerVC;
+			sourceTree = "<group>";
+		};
+		3A20A0AD1E6E9D0A004A2994 /* ScanerView */ = {
+			isa = PBXGroup;
+			children = (
+				3A20A0AE1E6E9D0A004A2994 /* ff_QRCodeScanLine@2x.png */,
+				3A20A0AF1E6E9D0A004A2994 /* ScanerView.h */,
+				3A20A0B01E6E9D0A004A2994 /* ScanerView.m */,
+			);
+			path = ScanerView;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -2205,6 +2251,7 @@
 				3A209DE31E6E3E2D004A2994 /* JTDateHelper.h in Headers */,
 				3A209DFB1E6E3E2D004A2994 /* JTVerticalCalendarView.h in Headers */,
 				3A209E451E6E3E2D004A2994 /* UIScrollView+MJExtension.h in Headers */,
+				3A20A0BB1E6E9D0A004A2994 /* ScanResultViewController.h in Headers */,
 				3A209E681E6E3E2D004A2994 /* UIImage+MultiFormat.h in Headers */,
 				3A209FD21E6E3E3E004A2994 /* MailUtil.h in Headers */,
 				3A209E4B1E6E3E2D004A2994 /* NJKWebViewProgress.h in Headers */,
@@ -2222,6 +2269,7 @@
 				3A209EB11E6E3E35004A2994 /* UIColor+Hex.h in Headers */,
 				3A209E351E6E3E2D004A2994 /* MJRefreshBackNormalFooter.h in Headers */,
 				3A209FBE1E6E3E3E004A2994 /* DeviceManager.h in Headers */,
+				3A20A0BD1E6E9D0A004A2994 /* ScanVideo3DViewController.h in Headers */,
 				3A209E741E6E3E2D004A2994 /* SKTagButton.h in Headers */,
 				3A209FFF1E6E3E3E004A2994 /* FontAttribute.h in Headers */,
 				3A20A00D1E6E3E3E004A2994 /* StringAttributeProtocol.h in Headers */,
@@ -2318,6 +2366,7 @@
 				3A209E061E6E3E2D004A2994 /* WeiboSDK+Statistics.h in Headers */,
 				3A209E8D1E6E3E2D004A2994 /* WXApi.h in Headers */,
 				3A209FE91E6E3E3E004A2994 /* UITouch+MemoryLeak.h in Headers */,
+				3A20A0B91E6E9D0A004A2994 /* ScanerView.h in Headers */,
 				3A209DA61E6E3E2D004A2994 /* AFURLSessionManager.h in Headers */,
 				3A20A0121E6E3E3E004A2994 /* DataBaseManager.h in Headers */,
 				3A209F911E6E3E3E004A2994 /* MFMailComposeViewController+Mail.h in Headers */,
@@ -2463,6 +2512,7 @@
 				3A209DF71E6E3E2D004A2994 /* JTCalendarWeekView.h in Headers */,
 				3A209DDD1E6E3E2D004A2994 /* JTCalendar.h in Headers */,
 				3A209DD51E6E3E2D004A2994 /* JSONHTTPClient.h in Headers */,
+				3A20A0B61E6E9D0A004A2994 /* ScanerVC.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2533,9 +2583,11 @@
 				3A209FF71E6E3E3E004A2994 /* .gitkeep in Resources */,
 				3A20A0091E6E3E3E004A2994 /* readme.txt in Resources */,
 				3A20A0221E6E3E3E004A2994 /* xml_content.xml in Resources */,
+				3A20A0B81E6E9D0A004A2994 /* ff_QRCodeScanLine@2x.png in Resources */,
 				3A20A0711E6E3F13004A2994 /* Main.storyboard in Resources */,
 				3A20A06F1E6E3F13004A2994 /* Assets.xcassets in Resources */,
 				3A209FC61E6E3E3E004A2994 /* icon_chose_bottom@2x.png in Resources */,
+				3A20A0B51E6E9D0A004A2994 /* Scaner.storyboard in Resources */,
 				3A209FC41E6E3E3E004A2994 /* icon_chose_arrow_nor@2x.png in Resources */,
 				3A209FCD1E6E3E3E004A2994 /* loading.gif in Resources */,
 				3A209FF81E6E3E3E004A2994 /* .gitkeep in Resources */,
@@ -2608,6 +2660,7 @@
 				3A209D9F1E6E3E2D004A2994 /* AFNetworkReachabilityManager.m in Sources */,
 				3A209FB61E6E3E3E004A2994 /* CleanCacheManager.m in Sources */,
 				3A209EB51E6E3E35004A2994 /* UserConfig.m in Sources */,
+				3A20A0BC1E6E9D0A004A2994 /* ScanResultViewController.m in Sources */,
 				3A20A0081E6E3E3E004A2994 /* ParagraphStyleAttribute.m in Sources */,
 				3A20A0A11E6E3F13004A2994 /* WXSTransitionManager+ViewMoveAnimation.m in Sources */,
 				3A209E941E6E3E2D004A2994 /* YYDiskCache.m in Sources */,
@@ -2680,6 +2733,7 @@
 				3A209FC31E6E3E3E004A2994 /* DOPDropDownMenu.m in Sources */,
 				3A20A0731E6E3F13004A2994 /* CollectionViewCell.m in Sources */,
 				3A209F821E6E3E3E004A2994 /* HttpTools.m in Sources */,
+				3A20A0BA1E6E9D0A004A2994 /* ScanerView.m in Sources */,
 				3A209FD91E6E3E3E004A2994 /* MLeakedObjectProxy.m in Sources */,
 				3A209E4E1E6E3E2D004A2994 /* NJKWebViewProgressView.m in Sources */,
 				3A209E731E6E3E2D004A2994 /* SKTag.m in Sources */,
@@ -2770,6 +2824,8 @@
 				3A209E601E6E3E2D004A2994 /* SDWebImageManager.m in Sources */,
 				3A209FAE1E6E3E3E004A2994 /* UIImageView+CircleImageView.m in Sources */,
 				3A20A01F1E6E3E3E004A2994 /* FightFectory.m in Sources */,
+				3A20A0B71E6E9D0A004A2994 /* ScanerVC.m in Sources */,
+				3A20A0BE1E6E9D0A004A2994 /* ScanVideo3DViewController.m in Sources */,
 				3A209E981E6E3E2D004A2994 /* YYMemoryCache.m in Sources */,
 				3A209FB91E6E3E3E004A2994 /* CustomSegue.m in Sources */,
 				3A20A0021E6E3E3E004A2994 /* ForegroundColorAttribute.m in Sources */,
