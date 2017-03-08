@@ -273,7 +273,6 @@
 		3A209EB01E6E3E35004A2994 /* StoryBoardIdentifier.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209EA21E6E3E35004A2994 /* StoryBoardIdentifier.h */; };
 		3A209EB11E6E3E35004A2994 /* UIColor+Hex.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209EA31E6E3E35004A2994 /* UIColor+Hex.h */; };
 		3A209EB21E6E3E35004A2994 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A209EA41E6E3E35004A2994 /* UIColor+Hex.m */; };
-		3A209EB31E6E3E35004A2994 /* Urls.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209EA51E6E3E35004A2994 /* Urls.h */; };
 		3A209EB41E6E3E35004A2994 /* UserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209EA61E6E3E35004A2994 /* UserConfig.h */; };
 		3A209EB51E6E3E35004A2994 /* UserConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A209EA71E6E3E35004A2994 /* UserConfig.m */; };
 		3A209F7F1E6E3E3E004A2994 /* APIClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A209EB81E6E3E3D004A2994 /* APIClient.h */; };
@@ -791,7 +790,6 @@
 		3A209EA21E6E3E35004A2994 /* StoryBoardIdentifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryBoardIdentifier.h; sourceTree = "<group>"; };
 		3A209EA31E6E3E35004A2994 /* UIColor+Hex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
 		3A209EA41E6E3E35004A2994 /* UIColor+Hex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
-		3A209EA51E6E3E35004A2994 /* Urls.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Urls.h; sourceTree = "<group>"; };
 		3A209EA61E6E3E35004A2994 /* UserConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserConfig.h; sourceTree = "<group>"; };
 		3A209EA71E6E3E35004A2994 /* UserConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserConfig.m; sourceTree = "<group>"; };
 		3A209EB81E6E3E3D004A2994 /* APIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APIClient.h; sourceTree = "<group>"; };
@@ -1761,7 +1759,6 @@
 				3A209EA21E6E3E35004A2994 /* StoryBoardIdentifier.h */,
 				3A209EA31E6E3E35004A2994 /* UIColor+Hex.h */,
 				3A209EA41E6E3E35004A2994 /* UIColor+Hex.m */,
-				3A209EA51E6E3E35004A2994 /* Urls.h */,
 				3A209EA61E6E3E35004A2994 /* UserConfig.h */,
 				3A209EA71E6E3E35004A2994 /* UserConfig.m */,
 			);
@@ -2421,7 +2418,6 @@
 				3A209E1C1E6E3E2D004A2994 /* NSLayoutConstraint+MASDebugAdditions.h in Headers */,
 				3A209E0C1E6E3E2D004A2994 /* MASConstraint+Private.h in Headers */,
 				3A209EAD1E6E3E35004A2994 /* Font.h in Headers */,
-				3A209EB31E6E3E35004A2994 /* Urls.h in Headers */,
 				3A209E311E6E3E2D004A2994 /* MJRefreshAutoStateFooter.h in Headers */,
 				3A209E5F1E6E3E2D004A2994 /* SDWebImageManager.h in Headers */,
 				3A209E701E6E3E2D004A2994 /* UIView+WebCacheOperation.h in Headers */,
@@ -3025,6 +3021,7 @@
 				3A209C691E6E3E09004A2994 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
