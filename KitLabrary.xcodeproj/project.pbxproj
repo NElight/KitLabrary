@@ -519,6 +519,8 @@
 		3A20A0BC1E6E9D0A004A2994 /* ScanResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0B21E6E9D0A004A2994 /* ScanResultViewController.m */; };
 		3A20A0BD1E6E9D0A004A2994 /* ScanVideo3DViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A20A0B31E6E9D0A004A2994 /* ScanVideo3DViewController.h */; };
 		3A20A0BE1E6E9D0A004A2994 /* ScanVideo3DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A20A0B41E6E9D0A004A2994 /* ScanVideo3DViewController.m */; };
+		3A43A6AA1E77E38C002AD40E /* SignView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A43A6A81E77E38C002AD40E /* SignView.h */; };
+		3A43A6AB1E77E38C002AD40E /* SignView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A43A6A91E77E38C002AD40E /* SignView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1036,6 +1038,8 @@
 		3A20A0B21E6E9D0A004A2994 /* ScanResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanResultViewController.m; sourceTree = "<group>"; };
 		3A20A0B31E6E9D0A004A2994 /* ScanVideo3DViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScanVideo3DViewController.h; sourceTree = "<group>"; };
 		3A20A0B41E6E9D0A004A2994 /* ScanVideo3DViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanVideo3DViewController.m; sourceTree = "<group>"; };
+		3A43A6A81E77E38C002AD40E /* SignView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignView.h; sourceTree = "<group>"; };
+		3A43A6A91E77E38C002AD40E /* SignView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1073,6 +1077,8 @@
 		3A209C611E6E3E09004A2994 /* KitLabrary */ = {
 			isa = PBXGroup;
 			children = (
+				3A43A6A81E77E38C002AD40E /* SignView.h */,
+				3A43A6A91E77E38C002AD40E /* SignView.m */,
 				3A20A0A91E6E9D0A004A2994 /* ScanerVC */,
 				3A209EB61E6E3E3D004A2994 /* Helper */,
 				3A209E991E6E3E35004A2994 /* Constant */,
@@ -2322,6 +2328,7 @@
 				3A209F991E6E3E3E004A2994 /* UIAlertController+SupportedInterface.h in Headers */,
 				3A209E911E6E3E2D004A2994 /* YYCache.h in Headers */,
 				3A209E131E6E3E2D004A2994 /* Masonry.h in Headers */,
+				3A43A6AA1E77E38C002AD40E /* SignView.h in Headers */,
 				3A209E011E6E3E2D004A2994 /* WBHttpRequest+WeiboUser.h in Headers */,
 				3A209DF11E6E3E2D004A2994 /* JTCalendarMenuView.h in Headers */,
 				3A209DB41E6E3E2D004A2994 /* NSMutableDictionary+AvoidCrash.h in Headers */,
@@ -2689,6 +2696,7 @@
 				3A209EB21E6E3E35004A2994 /* UIColor+Hex.m in Sources */,
 				3A20A02C1E6E3E3E004A2994 /* ZGFightUtil.m in Sources */,
 				3A209DE81E6E3E2D004A2994 /* JTCalendarScrollManager.m in Sources */,
+				3A43A6AB1E77E38C002AD40E /* SignView.m in Sources */,
 				3A20A0191E6E3E3E004A2994 /* UserInfoSaveManager.m in Sources */,
 				3A209F9A1E6E3E3E004A2994 /* UIAlertController+SupportedInterface.m in Sources */,
 				3A209E541E6E3E2D004A2994 /* NSData+ImageContentType.m in Sources */,
